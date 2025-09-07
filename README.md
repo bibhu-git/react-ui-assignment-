@@ -5,12 +5,12 @@ Two reusable UI components built with **React**, **TypeScript**, **TailwindCSS**
 ---
 
 ##  Structure
-```
+
 src/
   components/        # InputField, DataTable + stories + tests
   App.tsx            # Demo page
 .storybook/          # Storybook config
-```
+
 
 ---
 
@@ -20,7 +20,7 @@ npm install
 npm run dev        # run demo app
 npm run storybook  # open Storybook
 npm run test       # run tests
-```
+
 
 ---
 
