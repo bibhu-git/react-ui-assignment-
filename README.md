@@ -4,7 +4,7 @@ Two reusable UI components built with **React**, **TypeScript**, **TailwindCSS**
 
 ---
 
-## 📂 Structure
+##  Structure
 ```
 src/
   components/        # InputField, DataTable + stories + tests
@@ -14,8 +14,8 @@ src/
 
 ---
 
-## ⚙️ Setup
-```bash
+##  Setup
+
 npm install
 npm run dev        # run demo app
 npm run storybook  # open Storybook
@@ -24,13 +24,13 @@ npm run test       # run tests
 
 ---
 
-## 🧩 Components
+## Components
 - **InputField** – label, helper, error states, variants (filled/outlined/ghost), sizes, clear button, password toggle, light/dark mode.  
 - **DataTable** – sortable columns, row selection, loading and empty states.
 
 ---
 
-## 📝 Approach
+## Approach
 I focused on building **clean, reusable, and accessible components**.  
 - *InputField*: flexible API with variants and optional features.  
 - *DataTable*: simple but extendable table with sorting and selection.  
