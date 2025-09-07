@@ -2,7 +2,7 @@
 
 Two reusable UI components built with **React**, **TypeScript**, **TailwindCSS**, and **Storybook**.
 
----
+
 
 ##  Structure
 
@@ -15,7 +15,7 @@ src/
 .storybook/          # Storybook config
 
 
----
+
 
 ##  Setup
 
@@ -28,13 +28,13 @@ npm run storybook  # open Storybook
 npm run test       # run tests
 
 
----
+
 
 ## Components
 - **InputField** – label, helper, error states, variants (filled/outlined/ghost), sizes, clear button, password toggle, light/dark mode.  
 - **DataTable** – sortable columns, row selection, loading and empty states.
 
----
+
 
 ## Approach
 I focused on building **clean, reusable, and accessible components**.  
